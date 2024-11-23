@@ -43,7 +43,7 @@ pip install Flask Flask-SocketIO
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Akash-Agarwal-X/Chat.com.git
+   git clone https://github.com/aartihn/Chat.com.git
    cd Chat.com
    ```
 
